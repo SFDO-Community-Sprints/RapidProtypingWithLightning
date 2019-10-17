@@ -8,9 +8,9 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * List of all Contributors: Greg Sampson, Melissa Hansen, Rich Nevin
 
 ### Project Vision (Your first task as a team)
-*Goals*
+<h1>Goals<h1/>
 1.Quickly generate prototypes using SLDS and base Lightning Components as the visual/functional library
-2.Develop full-featured wireframes with SLDS and Lightning Components 
+1.Develop full-featured wireframes with SLDS and Lightning Components 
 
 
 ### Project Resources
