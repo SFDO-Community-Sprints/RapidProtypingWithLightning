@@ -20,6 +20,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 ### Project Resources
 *   In the end, it was **access to Salesforce Product Managers** at the sprint that unlocked the solution. After some basic research, a few platforms tested and a few clues from the interweb, Art Ordoqui connected us to Steven Shyu, a designer at Salesforce, who showed us a solution set for exactly this problem. Many thanks to both of them!
 
+*   Wiki within this repository contains working notes on additional products, links and findings.
+
 
 
 ### Project Team Accomplishments
