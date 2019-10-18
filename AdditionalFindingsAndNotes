@@ -1,0 +1,230 @@
+_OTHER NOTES AND LEARNINGS FROM TEAM RESEARCH_
+
+In addition to the solution set above, we share additional research we completed, including our take on other platforms.  
+
+*   Primary SF UX Git page:[https://github.com/salesforce-ux/](https://github.com/salesforce-ux/) 
+*   Prototyping / Wireframe Tools Considered/ To-consider
+    *   Sketch (Mac Only)- Melissa
+        *   Platforms supported (Windows? Mac Only?)
+            *   Mac Only
+        *   Cost
+            *   1 User: $99 (1st yr, decreases after)
+            *   2+ Users: $89 or less (1st yr, decreases after)
+        *   Functionality
+            *   Modalities for design:
+                *   Artboards for various UX interfaces
+                    *   Lightning page
+                    *   Lightning component
+                    *   Desktop app
+                    *   Mobile app
+            *   Mobile responsive??
+            *   How recent / often SLDS updated?
+                *   Yes!!  Latest Release
+                *   Updated by SF UX Team
+            *   Does it support interactive flows
+    *   Omnigraffle* (Mac Only): Rich
+        *   Short answer: great tool but no easy access to SLDS
+        *   It’s definitely possible to create a shared stencil with SLDS - but it does not currently exist - we’d have to make it ourselves
+    *   Avonni Creator: Rich
+        *   Short answer: do not recommend. Tool doesn’t pass the value-equation bar, especially for the cost of $60/mon/user
+        *   It’s browser-based, with drag and drop onto an auto-snap workspace
+        *   Commentary: Has the feel of a one-person operation grinding it out; not sophisticated enough to compete but too overbuilt to make up for it with simplicity
+    *   Justinmind: Greg
+        *   Looks very intriguing
+    *   MockFlow: Greg
+        *   Low-level wireframe tool
+    *   Axure - not evaluated
+    *   Balsamiq
+        *   It is *possible* to have custom templates available and for general sharing; there is not an existing set of SLDS tools to use
+    *   Gliphy - not evaluated
+    *   Pencil - not evaluated
+*   Initial Evaluation Criteria:
+    *   Platforms supported (Windows? Mac Only?)
+    *   Cost
+    *   Functionality
+        *   How recent / often SLDS updated?
+            *   Who updates it?
+        *   Modalities for design:
+            *   Lightning page
+            *   Lightning component
+            *   Desktop & Mobile app
+        *   Mobile responsive??
+        *   Does it support interactive flows
+        *   Collaboration Features
+
+***
+
+**APPENDIX - DON’T READ THIS**
+
+***
+
+AVONNI CREATOR NOTES:
+
+
+
+*   Browser based
+*   Design modality for "Lightning Page"
+    *   App Page
+    *   Dashboard
+    *   Home page
+    *   Record page
+    *   Email application pane
+*   In-app collaboration
+    *   Sharing
+    *   Chat window
+*   Export to Lightning Component
+*   Risks:
+    *   Two updates in the last year on their "What's New" blog… They did an update after Winter '19.
+    *   There is no "About Us" page on their website.
+    *   I don't trust it…
+*   Short of it:
+    *   Interaction not good enough; tool is touchy; would not recommend
+    *   It's beyond the trough of disenchantment, I don't think it's the proper tool
+
+**Mockflow**
+
+Description: super-fast drag and drop wireframing tool
+
+Pricing
+
+Single User: 
+
+
+    Free:
+
+
+
+*   1 UI Project
+*   Two Reviewers
+
+    Premium: $14pp/month
+
+*   Unlimited UI projects
+*   Unlimited reviewers
+*   Unlimited version history
+*   MockStore UI library
+*   Email support
+
+Team: ~$10pp/month
+
+
+
+*   7 co-editors per project
+*   Add-on user licenses
+*   Team component libraries
+*   Multiple project admins
+*   UI guidelines & approvals
+*   Integrations with business apps
+*   Advanced Power-ups in store *
+*   Account portability *
+*   Remote UI presentation *
+*   HD Video conference *
+*   SAML-based SSO *
+*   Dedicated 24/7 support
+
+**Pros**
+
+Advanced Webapp
+
+
+    **MockStore**
+
+
+
+*   Importable templates (Find UI layouts, templates and interface designs shared by MockFlow user community), UI Packs (Get pre-built component sets for designing any user interface)
+*   Add-in modules (Power Ups) to add usable functionality to your wireframe
+*   SLDS 
+
+Can generate functional apps in Win10 and MacOS
+
+Slack, Google, Office 365, Trellio, and Atlassian integrations
+
+Integrated Sprint-style workflow management tool.
+
+Includes an SLDS v2 library
+
+**Cons**
+
+No Desktop App
+
+Internet connection required - upgrade to get off-line mode, and access to Power Ups
+
+Low-Fidelity objects only
+
+Limited editability of SLDS components
+
+**JustinMind**
+
+Description: Highly-functional rapid prototyper with dynamic content and programmatic capabilities
+
+
+
+*   Responsive and adaptive website wireframes
+*   Advanced interactions, 
+*   Animations and transitions. 
+*   Dynamic content, show and hide elements, link to other screens,
+*   Conditional navigation, forms (with validation) and Data Lists
+*   Custom UI Libraries
+*   Sketch integration
+*   Programmatic access via API
+*   Downloadable app
+
+Free:
+
+
+
+*   Wireframing
+*   UI Kits for Web, iOS, Andriod, SLDS, and others
+
+Professional: $19
+
+
+
+*   Unlimited prototypes
+*   Unlimited reviewers & developers
+*   UI kits: 4000+ UI elements
+*   Rich web interactions
+*   Mobile gestures & transitions
+*   Animations and effects
+*   Share and get feedback
+*   Test on device
+*   Forms & data lists simulation
+*   Export and documentation
+*   Designer-developer handoff
+*   Dedicated ticketing support
+*   Collaboration storage: 300MB/user
+
+    Design interactive prototypes. Collaborate with reviewers and developers
+
+
+Enterprise: $39
+
+
+    Professional + 
+
+
+    Requirements management
+
+
+    UI libraries synchronization
+
+
+    JIRA, TFS, Doors integration
+
+
+    Custom document generation
+
+
+    User testing integration
+
+
+    API/SDK
+
+
+    Priority support
+
+
+    Collaboration storage: 600MB/user
+
+
+    Design systems
