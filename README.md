@@ -18,12 +18,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 
 
 ### Project Resources
-* Tools To Consider
-Omnigraffle*
-Balsamic
-Gliphy
-Pencil
-Invision
+*   In the end, it was **access to Salesforce Product Managers** at the sprint that unlocked the solution. After some basic research, a few platforms tested and a few clues from the interweb, Art Ordoqui connected us to Steven Shyu, a designer at Salesforce, who showed us a solution set for exactly this problem. Many thanks to both of them!
+
 
 
 ### Project Team Accomplishments
