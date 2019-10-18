@@ -23,7 +23,44 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 
 
 ### Project Team Accomplishments
-What did the Project Team accomplished during the Sprint?
+**SOLUTION SETS (to be chosen based on needs / complexity):**
+
+**Create simple HTML page mockup:**
+
+*   Install and subscribe to the Salesforce UX team’s Design System Starter Kit: 
+    *   [https://github.com/salesforce-ux/design-system-starter-kit](https://github.com/salesforce-ux/design-system-starter-kit)
+    *   [https://starter-kit-demo.herokuapp.com/](https://starter-kit-demo.herokuapp.com/)
+*   CAVEAT: requires basic markup skills
+*   _NOTE: could not actually demo this due to conflicts in our environment_
+
+***
+
+**Base level design solution for single page wireframes / mockups: **
+
+*   Purchase [Sketch ](https://www.sketch.com/)(1 license minimum); $99 / yr
+*   Install and subscribe to the Salesforce ui kit: [https://github.com/salesforce-ux/design-system-ui-kit/](https://github.com/salesforce-ux/design-system-ui-kit/)
+*   CAVEAT: limited to MAC USERS ONLY!!
+*   Note: watch this space for improved component searching:
+    *   [https://github.com/salesforce-ux/](https://github.com/salesforce-ux/) 
+
+***
+
+**Advanced level solution to ALSO test interactivity (and more):**
+
+*   Uses InvisionApp and the Craft plugin in conjunction with the base level Sketch solution to make interactive mockups:
+    *   [https://www.invisionapp.com/](https://www.invisionapp.com/design-system-manager/) (first prototype free, $15/mo for 3 prototype; $99 / mo unlimited) 
+    *   [“Craft” plugin](https://www.invisionapp.com/craft) for publishing Sketch mockups to InvisionApp (FREE)
+*   CAVEAT: limited to MAC USERS ONLY (Sketch limited)!!
+
+***
+
+**You’re Probably Not a Non-Profit Level**
+
+*   Leverage the Invisionapp design system manager for cross team collaboration and consistency
+*   [https://www.invisionapp.com/design-system-manager/](https://www.invisionapp.com/design-system-manager/) 
+
+***
+
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
 Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>
