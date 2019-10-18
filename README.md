@@ -25,6 +25,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 ### Project Team Accomplishments
 **SOLUTION SETS (to be chosen based on needs / complexity):**
 
+***
+
 **Create simple HTML page mockup:**
 
 *   Install and subscribe to the Salesforce UX team’s Design System Starter Kit: 
@@ -35,7 +37,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 
 ***
 
-**Base level design solution for single page wireframes / mockups: **
+**Base level design solution for single page wireframes / mockups:**
 
 *   Purchase [Sketch ](https://www.sketch.com/)(1 license minimum); $99 / yr
 *   Install and subscribe to the Salesforce ui kit: [https://github.com/salesforce-ux/design-system-ui-kit/](https://github.com/salesforce-ux/design-system-ui-kit/)
@@ -60,10 +62,3 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 *   [https://www.invisionapp.com/design-system-manager/](https://www.invisionapp.com/design-system-manager/) 
 
 ***
-
-
-### Future Contributions (AKA what were you unable to finish at the Sprint)
-Often, it takes multiple Sprints to contribute an idea back into the Community. What happens at a Sprint does not stay at a Sprint! If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?<br><br>
-* What is your project's Roadmap?
-
-**Important**: If you have specific asks to help move this project forward we would recommend that you list them here, but also create separate Issues for each and add the label of "help wanted". This is a well-worn best practice for projects living in GitHub.
