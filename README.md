@@ -9,9 +9,9 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 
 ### Project Vision (Your first task as a team)
 1. If we could use the Lightning Design System & Base Lightning Components for wireframing and mocking up prototypes, we could:
-    1. **Improve time-to-market: **while prototyping will shorten the app / solution development lifecycle and eliminate rework, prototyping with <span style="text-decoration:underline;">the same interactive library you’re going to build with </span>will save more time and reduce surprises for stakeholders
-    2. **Lower cost: **The Salesforce UX team has made an incredible design system - there is often no need to reinvent the wheel with expensive design resources
-    3. **Achieve consistent user experience **for constituents and users interacting with your solution / program / brand
+    1. **Improve time-to-market:** while prototyping will shorten the app / solution development lifecycle and eliminate rework, prototyping with <span style="text-decoration:underline;">the same interactive library you’re going to build with </span>will save more time and reduce surprises for stakeholders
+    2. **Lower cost:** The Salesforce UX team has made an incredible design system - there is often no need to reinvent the wheel with expensive design resources
+    3. **Achieve consistent user experience** for constituents and users interacting with your solution / program / brand
 2. Ideally: the prototype library would automatically update as the actual Lightning UI library updates
 *   NOTE: when building with Lightning Components, simple CSS can create differentiated and unique visual experiences. It is not expected to have this design layer at the prototyping step, just the components is enough.
 
