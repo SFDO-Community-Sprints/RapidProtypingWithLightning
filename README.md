@@ -1,4 +1,7 @@
 ### Project Name
+Rapid Prototyping with Lightning
+
+### Project Description
 Tools for rapid prototyping and wireframing with the Salesforce Lightning Design System and Base Lightning Components as the visual and functional library.
 
 ### Project Team
