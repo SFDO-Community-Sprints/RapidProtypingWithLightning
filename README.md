@@ -15,7 +15,8 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 2. Ideally: the prototype library would automatically update as the actual Lightning UI library updates
 *   NOTE: when building with Lightning Components, simple CSS can create differentiated and unique visual experiences. It is not expected to have this design layer at the prototyping step, just the components is enough.
 
-
+### Intended Users
+We think these tools would be of the most value/interest for UI/UX Designers, Product Owners and Developers accross all verticals.
 
 ### Project Resources
 *   In the end, it was **access to Salesforce Product Managers** at the sprint that unlocked the solution. After some basic research, a few platforms tested and a few clues from the interweb, Art Ordoqui connected us to Steven Shyu, a designer at Salesforce, who showed us a solution set for exactly this problem. Many thanks to both of them!
